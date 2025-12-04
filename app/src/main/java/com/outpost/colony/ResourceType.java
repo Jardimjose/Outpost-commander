@@ -1,5 +1,7 @@
 package com.outpost.colony;
 
-public class ResourceType {
-    
+public enum ResourceType {
+    OXYGEN,
+    FOOD,
+    POWER
 }
